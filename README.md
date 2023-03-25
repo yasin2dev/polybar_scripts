@@ -12,5 +12,5 @@ Add this lines to your polybar `config.ini` file.
 [module/player]
 type = custom/script
 exec = path/of/your/player.sh
-interval = 25
+interval = 0
 ```
